@@ -1,2 +1,2 @@
 # Welcome To My GitHub Page
-[Another Page](ctf1.md)
+[Another Page](ctf.md)
