@@ -6,4 +6,3 @@ I Will Share CTF Writeups , Programming And Blog...
 * E-Mail: abduturan0@gmail.com
 
 
-[Another Page](ctf.md)
